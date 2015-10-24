@@ -177,7 +177,7 @@ Make sure to use comments extensively to explain your code!
 
 Create a script that displays "Hello world" on the screen - and don't forget the comments!
 
-Exercise01.py
+[Exercise01.py](Exercise01.py)
 
 ## Variables
 
@@ -233,7 +233,7 @@ For Python to remember data that the user enters, we need to assign it to a vari
 
 * Create a script that asks the user to enter the month (e.g. September) and day of the month (e.g. 12) and displays "Today is September 12" on the screen
 
-* Exercise02.py
+* [Exercise02.py](Exercise02.py)
 
 ## Functions
 
@@ -253,4 +253,4 @@ For Python to remember data that the user enters, we need to assign it to a vari
 
 * Create a script that converts pounds to kg
 * Hint: 1 pound = 0.453592 kg
-* Exercise03.py
+* [Exercise03.py](Exercise03.py)
